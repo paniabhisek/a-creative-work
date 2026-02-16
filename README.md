@@ -1,0 +1,1 @@
+After reading, you can read [this](https://httpie.io/blog/stardust)—namely, the **Github Desktop App** and **HTTPie CLI**—to find other repos that has lost stars. I got to know about them from [here](https://www.youtube.com/watch?v=eyXxEBZMVQI).
